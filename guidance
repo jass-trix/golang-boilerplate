@@ -1,0 +1,4 @@
+cmd --> buat main, config
+pkg --> API, Router, Server
+web --> asset, html static file
+build --> for binary
